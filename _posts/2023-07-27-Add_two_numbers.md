@@ -2,7 +2,7 @@
 title: Add Two Numbers
 date: 2023-07-27 12:33:00 +0800
 categories: [Coding, Top100]
-tags: [linkedlist, recursion]     # TAG names should always be lowercase
+tags: [linked-list, recursion]     # TAG names should always be lowercase
 author: jerry
 ---
 

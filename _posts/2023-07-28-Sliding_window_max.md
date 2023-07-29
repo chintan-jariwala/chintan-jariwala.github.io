@@ -2,7 +2,7 @@
 title: Sliding Window Maximum
 date: 2023-07-28 00:00:00 +0800
 categories: [Coding, Top100]
-tags: [sliding_window, array_dqueue]     # TAG names should always be lowercase
+tags: [sliding-window, array-dqueue]     # TAG names should always be lowercase
 author: jerry
 ---
 
