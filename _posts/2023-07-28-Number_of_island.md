@@ -2,7 +2,7 @@
 title: Number of Islands
 date: 2023-07-28 00:00:00 +0800
 categories: [Coding, Top100]
-tags: [bfs, breath-first-search, dfs, depth-first-search, graph]     # TAG names should always be lowercase
+tags: [bfs, breath-first-search, dfs, depth-first-search, graph, medium]     # TAG names should always be lowercase
 author: jerry
 ---
 

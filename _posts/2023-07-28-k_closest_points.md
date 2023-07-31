@@ -2,7 +2,7 @@
 title: K Closest points to origin
 date: 2023-07-28 00:00:00 +0800
 categories: [Coding, Top100]
-tags: [priority-queue, heap]     # TAG names should always be lowercase
+tags: [priority-queue, heap, medium]     # TAG names should always be lowercase
 author: jerry
 ---
 

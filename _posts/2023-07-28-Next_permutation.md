@@ -2,7 +2,7 @@
 title: Next Permutation
 date: 2023-07-28 00:00:00 +0800
 categories: [Coding, Top100]
-tags: [mathematics, array]     # TAG names should always be lowercase
+tags: [mathematics, array, medium]     # TAG names should always be lowercase
 author: jerry
 ---
 
