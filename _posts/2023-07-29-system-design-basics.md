@@ -22,4 +22,4 @@ Examples :
 - A hospital that redesigned its patient intake process saved $500,000 per year in administrative costs.
 - A manufacturing plant that redesigned its production line saved $2 million per year in energy costs.
 
-
+[//]: # (<iframe width="640" height="360" src="https://www.youtube.com/embed/xpDnVSmNFX0" frameborder="0" allowfullscreen></iframe>)
