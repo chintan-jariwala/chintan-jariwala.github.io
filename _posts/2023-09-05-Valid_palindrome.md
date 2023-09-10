@@ -1,5 +1,5 @@
 ---
-title: Trapping Rain Water
+title: Valid Palindrome
 date: 2023-09-05 00:00:00 +0000
 categories: [Coding, meta]
 tags: [two-pointers, string, greedy]
