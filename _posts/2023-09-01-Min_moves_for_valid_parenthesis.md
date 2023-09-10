@@ -1,5 +1,5 @@
 ---
-title: Trapping Rain Water
+title: Min Moves for valid parenthesis
 date: 2023-09-01 00:00:00 +0000
 categories: [Coding, Top150]
 tags: [array, two-pointers, dynamic-programming, stack, monotonic-stack]
